@@ -81,7 +81,7 @@ Each quote contains:
 - **Network**: Stellar (Soroban)  
 - **Language**: Rust  
 - **SDK**: Soroban SDK  
-
+- **ID** : CCRYB7QGI2CSG3HPCP437J4VWGBWCH3DIVSAQQXR2IX2OSIHNJKVT45Z 
 ---
 
 ## 🛠 Tech Stack
@@ -138,5 +138,7 @@ Daily Quote Saver shows that even a simple idea can be enhanced using blockchain
 It focuses on clarity, functionality, and foundational understanding rather than unnecessary complexity.
 
 ---
+
+
 
 **"Simple, but meaningful."**
